@@ -114,11 +114,25 @@ Testo della segnalazione
 ------------------------
 In questa sezione è possibile inserire il testo della segnalazione.
 
+.. figure:: /media/image.png
+   :align: center
+   :name: modello-P
+   :alt: Testo della segnalazione
+
+   Testo della segnalazione
+
 Allegati
 --------
 In questa sezione è possibile allegare documenti aggiuntivi alla segnalazione
 Per farlo si deve cliccare sul pulsante **+Aggiungi Allegato**. Si aprirà una finestra in cui si potrà scrivere una breve descrizione
 dell'allegato, selezionare il tipo di allegato e caricare il file. Per salvare l'allegato si deve cliccare sul pulsante **Conferma**.
+
+.. figure:: /media/image.png
+   :align: center
+   :name: modello-P
+   :alt: Allegati
+
+   Allegati
 
 Invio della segnalazione
 ------------------------
