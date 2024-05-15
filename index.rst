@@ -11,6 +11,7 @@ Per poter accedere al sistema l'utente dovrà registrarsi.
   :caption: Manuale utente
 
   manuale-pdsfront/introduzione.rst
+  manuale-pdsfront/segnalazioni.rst
   manuale-pdsfront/faq.rst
   manuale-pdsfront/releases-notes.rst
   
