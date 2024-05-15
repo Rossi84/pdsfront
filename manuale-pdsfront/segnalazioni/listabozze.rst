@@ -17,7 +17,7 @@ Da qui è possibile andare a modificare la bozza o eliminarla andando a cliccare
    :name: lista-bozze
    :alt: Modifica/Elimina bozza
 
-    Modifica/Elimina bozza
+   Modifica/Elimina bozza
 
 Nel caso dell'eliminazione della bozza, una volta cliccato sull'icona, appararirà un pop-up sul quale confermare l'eliminazione cliccando su **Conferma**
 
@@ -26,5 +26,5 @@ Nel caso dell'eliminazione della bozza, una volta cliccato sull'icona, appararir
    :name: lista-bozze
    :alt: Eliminazione bozza
 
-    Eliminazione bozza
+   Eliminazione bozza
 

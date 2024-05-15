@@ -14,9 +14,10 @@ nel riquadro intitolato **Modello D**.
 Dati segnalante
 ----------------
 La prima sezione del modello richiede di andare ad inserire i dati del segnalante. Per inserire i dati del segnalante inanzitutto si 
-deve selezionare il tipo di segnalante tra:
-- *Il segnalante sono io* : da seleionare se il segnalante è la persona che sta compilando il modello. in questo caso i dati del segnalante
-verranno precompilati con i dati dell'utente loggato.
+deve selezionare il tipo di segnalante tra: 
+
+- *Il segnalante sono io* : da seleionare se il segnalante è la persona che sta compilando il modello. in questo caso i dati del segnalante verranno precompilati con i dati dell'utente loggato.
+
 .. figure:: /media/image.png
    :align: center
    :name: modello-D
@@ -24,9 +25,8 @@ verranno precompilati con i dati dell'utente loggato.
 
    Il segnalante sono io
 
-- *Il segnalante è una persona giuridica di cui sono il legale rappresentante*: da selezionare se il segnalante è una persona giuridica di cui
-l'utente è il legale rappresentante. Verranno chiesti i dati relativi alla persona giuridica.
-I dati della persona giuridica verranno salvati, in automatico, nella rubrica delle aziende dell'utente.
+- *Il segnalante è una persona giuridica di cui sono il legale rappresentante*: da selezionare se il segnalante è una persona giuridica di cui l'utente è il legale rappresentante. Verranno chiesti i dati relativi alla persona giuridica. I dati della persona giuridica verranno salvati, in automatico, nella rubrica delle aziende dell'utente.
+
 .. figure:: /media/image.png
    :align: center
    :name: modello-D
@@ -34,11 +34,8 @@ I dati della persona giuridica verranno salvati, in automatico, nella rubrica de
 
    Il segnalante è una persona giuridica di cui sono il legale rappresentante
 
-- *Il segnalante è una persona fisica che mi ha delegato*: da selezionare se il segnalante è una persona fisica che ha delegato l'utente a
-compilare il modello. Verranno chiesti i dati della persona fisica che ha delegato l'utente.
-I dati del delegante verranno salvati in automatico nella rubrica dei deleganti dell'utente.
-Inoltre verrà chiesto di allegare il documento d'identita e il documento di delega della persona fisica che ha delegato l'utente.
-dalla persona fisica.
+- *Il segnalante è una persona fisica che mi ha delegato*: da selezionare se il segnalante è una persona fisica che ha delegato l'utente a compilare il modello. Verranno chiesti i dati della persona fisica che ha delegato l'utente. I dati del delegante verranno salvati in automatico nella rubrica dei deleganti dell'utente. Inoltre verrà chiesto di allegare il documento d'identita e il documento di delega della persona fisica che ha delegato l'utente.
+
 .. figure:: /media/image.png
    :align: center
    :name: modello-D
@@ -46,11 +43,8 @@ dalla persona fisica.
 
    Il segnalante è una persona fisica che mi ha delegato
 
-- *Il segnalante è una persona giuridica di cui ho procura*: da selezionare se il segnalante è una persona giuridica di cui 
-l'utente ha procura. Verranno chiesti i dati della persona giuridica e del rappresentante legale della persona giuridica.
-I dati del rappresentante legale della persona giuridica verranno salvati in automatico nella rubrica dei deleganti dell'utente e i
-dati della persona giuridica verranno salvati nella rubrica delle aziende del rappresentante legale.
-Inoltre verrà chiesto di allegare il documento d'identità del rappresentante legale della persona giuridica e il documento di procura.
+- *Il segnalante è una persona giuridica di cui ho procura*: da selezionare se il segnalante è una persona giuridica di cui l'utente ha procura. Verranno chiesti i dati della persona giuridica e del rappresentante legale della persona giuridica. I dati del rappresentante legale della persona giuridica verranno salvati in automatico nella rubrica dei deleganti dell'utente e i dati della persona giuridica verranno salvati nella rubrica delle aziende del rappresentante legale. Inoltre verrà chiesto di allegare il documento d'identità del rappresentante legale della persona giuridica e il documento di procura.
+
 .. figure:: /media/image.png
    :align: center
    :name: modello-D
@@ -61,6 +55,7 @@ Inoltre verrà chiesto di allegare il documento d'identità del rappresentante l
 Oggetto della segnalazione
 --------------------------
 In questa sezione è possibile inserire l'oggetto della segnalazione.
+
 .. figure:: /media/image.png
    :align: center
    :name: modello-D
@@ -71,6 +66,7 @@ In questa sezione è possibile inserire l'oggetto della segnalazione.
 Operatore interessato
 ---------------------
 In questa sezione è possibile inserire il nome dell'operatore interessato.
+
 .. figure:: /media/image.png
    :align: center
    :name: modello-D
@@ -79,6 +75,7 @@ In questa sezione è possibile inserire il nome dell'operatore interessato.
    Operatore interessato
 
 In alcuni casi, a seconda dell'oggetto selezionato, apparirà anche da inserire l'operatore di provenienza.
+
 .. figure:: /media/image.png
    :align: center
    :name: modello-D
@@ -89,6 +86,7 @@ In alcuni casi, a seconda dell'oggetto selezionato, apparirà anche da inserire 
 Tipologia di servizio
 ---------------------
 In questa sezione è possibile selezionare la tipologia di servizio.
+
 .. figure:: /media/image.png
    :align: center
    :name: modello-D
@@ -101,6 +99,7 @@ Dati relativi all'utenza
 In questa sezione è possibile inserire i dati relativi all'utenza. 
 Se l'intestatario del contratto è diverso dal segnalante, si deve selezionare la casella *L'intestatario del contratto è diverso dal segnalante*
 e inserire i dati dell'intestatario del contratto.
+
 .. figure:: /media/image.png
    :align: center
    :name: modello-D
