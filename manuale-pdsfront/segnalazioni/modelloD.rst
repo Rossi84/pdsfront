@@ -13,10 +13,10 @@ nel riquadro intitolato **Modello D**.
 
 Dati segnalante
 ----------------
-La prima sezione del modello richiede di andare ad inserire i dati del segnalante. Per inserire i dati del segnalante inanzitutto si 
+La prima sezione del modello richiede di andare ad inserire i dati del segnalante. Per inserire i dati del segnalante innanzitutto si 
 deve selezionare il tipo di segnalante tra: 
 
-- *Il segnalante sono io* : da seleionare se il segnalante è la persona che sta compilando il modello. in questo caso i dati del segnalante verranno precompilati con i dati dell'utente loggato.
+- *Il segnalante sono io* : da selezionare se il segnalante è la persona che sta compilando il modello. In questo caso i dati del segnalante verranno precompilati con i dati dell'utente loggato.
 
 .. figure:: /media/image.png
    :align: center
@@ -97,7 +97,7 @@ In questa sezione è possibile selezionare la tipologia di servizio.
 Dati relativi all'utenza
 ------------------------
 In questa sezione è possibile inserire i dati relativi all'utenza. 
-Se l'intestatario del contratto è diverso dal segnalante, si deve selezionare la casella *L'intestatario del contratto è diverso dal segnalante*
+Se l'intestatario del contratto è diverso dal segnalante, si deve selezionare la casella " *L'intestatario del contratto è diverso dal segnalante* ""
 e inserire i dati dell'intestatario del contratto.
 
 .. figure:: /media/image.png
@@ -120,7 +120,7 @@ In questa sezione è possibile inserire il testo della segnalazione.
 
 Allegati
 --------
-In questa sezione è possibile allegare documenti aggiuntivi alla segnalazione
+In questa sezione è possibile allegare documenti aggiuntivi alla segnalazione.
 Per farlo si deve cliccare sul pulsante **+Aggiungi Allegato**. Si aprirà una finestra in cui si potrà scrivere una breve descrizione
 dell'allegato, selezionare il tipo di allegato e caricare il file. Per salvare l'allegato si deve cliccare sul pulsante **Conferma**.
 

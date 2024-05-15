@@ -10,7 +10,7 @@ In questa pagina viene mostrata la lista delle bozze delle segnalazioni.
 
    Lista bozze
 
-Da qui è possibile andare a modificare la bozza o eliminarla andando a cliccare sulle due icone presenti nell'ultima colonna.
+Da qui è possibile andare a modificare la bozza o eliminarla cliccando sulle due icone presenti nell'ultima colonna.
 
 .. figure:: /media/image.png
    :align: center

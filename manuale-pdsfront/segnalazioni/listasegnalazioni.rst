@@ -13,7 +13,9 @@ Per visualizzare il dettaglio della segnalazione premere l'apposita icona a "len
 
 
 Nella visualizzazione di dettaglio saranno presenti due possibili azioni:
+
 - Fascicolo Documentale: che permette di visualizzare i file allegati alla segnalazione
+
 - Download Fascicolo Documentale: che permette di scaricare i file allegati alla segnalazione in un unico file zip.
 
 .. figure:: /media/image.png
