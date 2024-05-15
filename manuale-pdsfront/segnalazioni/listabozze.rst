@@ -19,7 +19,7 @@ Da qui è possibile andare a modificare la bozza o eliminarla cliccando sulle du
 
    Modifica/Elimina bozza
 
-Nel caso dell'eliminazione della bozza, una volta cliccato sull'icona, appararirà un pop-up sul quale confermare l'eliminazione cliccando su **Conferma**
+Nel caso dell'eliminazione della bozza, una volta cliccato sull'icona, appararirà un pop-up sul quale confermare l'eliminazione cliccando su **CONFERMA**
 
 .. figure:: /media/image.png
    :align: center

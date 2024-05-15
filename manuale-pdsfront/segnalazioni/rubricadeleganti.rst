@@ -1,4 +1,4 @@
-Rubrica Deleganti
+Rubrica deleganti
 =================
 
 In questa pagina viene mostarta la lista dei deleganti.
@@ -10,7 +10,7 @@ In questa pagina viene mostarta la lista dei deleganti.
 
    Lista deleganti
 
-In particolare, è possibile andare ad aggiungere un delegante sia attraverso il tasto **Aggiungi**,
+In particolare, è possibile andare ad aggiungere un delegante sia attraverso il tasto **AGGIUNGI**,
 sia in maniera automatica nel momento in cui si inseriscono i dati del delegante all'interno di una segnalazione.
 
 .. figure:: /media/image.png

@@ -125,8 +125,8 @@ In questa sezione è possibile inserire il testo della segnalazione.
 Allegati
 --------
 In questa sezione è possibile allegare documenti aggiuntivi alla segnalazione.
-Per farlo si deve cliccare sul pulsante **+Aggiungi Allegato**. Si aprirà una finestra in cui si potrà scrivere una breve descrizione
-dell'allegato, selezionare il tipo di allegato e caricare il file. Per salvare l'allegato si deve cliccare sul pulsante **Conferma**.
+Per farlo si deve cliccare sul pulsante **+AGGIUNGI ALLEGATO**. Si aprirà una finestra in cui si potrà scrivere una breve descrizione
+dell'allegato, selezionare il tipo di allegato e caricare il file. Per salvare l'allegato si deve cliccare sul pulsante **CONFERMA**.
 
 .. figure:: /media/image.png
    :align: center
@@ -138,5 +138,5 @@ dell'allegato, selezionare il tipo di allegato e caricare il file. Per salvare l
 Invio della segnalazione
 ------------------------
 Per inviare la segnalazione si deve cliccare sul pulsante **INVIA**. Verrà visualizzata una finestra di conferma in cui si
-deve cliccare sul pulsante **Conferma** per confermare l'invio della segnalazione.
+deve cliccare sul pulsante **CONFERMA** per confermare l'invio della segnalazione.
 
