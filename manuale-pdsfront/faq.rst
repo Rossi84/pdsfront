@@ -1,5 +1,5 @@
-F.A.Q
-=====
+F.A.Q.
+======
 
 In questa sezione sono presenti le F.A.Q. relative al Portale delle segnalazioni. 
 

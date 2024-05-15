@@ -5,7 +5,7 @@ Questo manuale riguarda l'accesso e le funzionalità del Portale delle segnalazi
 Per poter accedere al sistema l'utente dovrà registrarsi.
 
 .. toctree::
-  :maxdepth: 3
+  :maxdepth: 2
   :numbered:
   :hidden:
   :caption: Manuale utente
