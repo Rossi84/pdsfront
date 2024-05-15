@@ -1,5 +1,5 @@
 Lista segnalazioni
-===============================================
+==================
 
 In questa pagina viene mostrata la lista delle segnalazioni inserite.
 Per visualizzare il dettaglio della segnalazione premere l'apposita icona a "lente d'ingrandimento" dell'ultima colonna.
