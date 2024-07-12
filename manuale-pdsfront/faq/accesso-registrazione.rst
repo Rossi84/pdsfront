@@ -1,13 +1,4 @@
 Accesso e registrazione
 =======================
 
-Lorem ipsum?
-~~~~~~~~~~~~~~~~~~~~~~
-
-Dolor aimet...
-
-
-Lorem ipsum?
-~~~~~~~~~~~~~~~~~~~~~~
-
-Dolor aimet... 
+Nessuna faq ancora disponibile per questa sezione
