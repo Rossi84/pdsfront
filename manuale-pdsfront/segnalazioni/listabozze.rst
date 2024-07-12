@@ -3,7 +3,7 @@ Lista bozze
 
 In questa pagina viene mostrata la lista delle bozze delle segnalazioni.
 
-.. figure:: /media/image.png
+.. figure:: /media/listabozze.png
    :align: center
    :name: lista-bozze
    :alt: Lista bozze
@@ -12,7 +12,7 @@ In questa pagina viene mostrata la lista delle bozze delle segnalazioni.
 
 Da qui è possibile andare a modificare la bozza o eliminarla cliccando sulle due icone presenti nell'ultima colonna.
 
-.. figure:: /media/image.png
+.. figure:: /media/modificaeliminabozza.png
    :align: center
    :name: lista-bozze
    :alt: Modifica/Elimina bozza
@@ -20,11 +20,3 @@ Da qui è possibile andare a modificare la bozza o eliminarla cliccando sulle du
    Modifica/Elimina bozza
 
 Nel caso dell'eliminazione della bozza, una volta cliccato sull'icona, appararirà un pop-up sul quale confermare l'eliminazione cliccando su **CONFERMA**
-
-.. figure:: /media/image.png
-   :align: center
-   :name: lista-bozze
-   :alt: Eliminazione bozza
-
-   Eliminazione bozza
-

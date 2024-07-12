@@ -7,7 +7,7 @@ Cliccare in alto a destra sul proprio nome e poi sulla voce **PROFILO**.
 Dopo aver cliccato su **PROFILO** si aprirà la pagina di modifica del profilo. Andando nella sezione *Aziende* 
 sotto la sezione *Utente* si potrà aggiungere un'azienda cliccando sul pulsante **AGGIUNGI UN'AZIENDA**.
 
-.. figure:: /media/image.png
+.. figure:: /media/aggiungiazienda.png
    :align: center
    :name: registrazione-azienda
    :alt: Aggiungere nuova azienda
@@ -19,7 +19,7 @@ Creazione di un'azienda
 
 Per creare un'azienda è necessario inserire tutti i dati richiesti. Dopo aver inserito i dati, cliccare sul pulsante **SALVA**.
 
-.. figure:: /media/image.png
+.. figure:: /media/datiazienda.png
    :align: center
    :name: registrazione-azienda
    :alt: Creazione azienda

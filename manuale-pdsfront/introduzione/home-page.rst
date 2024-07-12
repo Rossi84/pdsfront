@@ -6,7 +6,7 @@ La prima pagina aperta dopo la login costituisce la Home page o pagina principal
 Sono presenti i possibili link per l'inserimento di una segnalazione.
 In particolare, sono presenti due riquadri che permettono di inserire una segnalazione di tipo **Modello D** o **Modello P**.
 
-.. figure:: /media/image.png
+.. figure:: /media/modelloPeD.png
    :align: center
    :name: home page - modelli
    :alt: Modello D e Modello P
@@ -16,22 +16,22 @@ In particolare, sono presenti due riquadri che permettono di inserire una segnal
 Per andare a inserire una segnalazione di tipo **Modello D** è sufficiente cliccare sul pulsante **+ INSERISCI** presente nel 
 riquadro **Modello D** a seguito della descrizione del modello e del link che porta ad ulteriori dettagli.
 
-.. figure:: /media/image.png
-   :align: center
-   :name: home page - modelli
-   :alt: Modello P
-
-   Modello P
-
-Per andare a inserire una segnalazione di tipo **Modello P** è sufficiente cliccare sul pulsante **+ INSERISCI** presente nel
-riquadro **Modello P** a seguito della descrizione del modello e del link che porta ad ulteriori dettagli.
-
-.. figure:: /media/image.png
+.. figure:: /media/modelloD.png
    :align: center
    :name: home page - modelli
    :alt: Modello D
 
    Modello D
+
+Per andare a inserire una segnalazione di tipo **Modello P** è sufficiente cliccare sul pulsante **+ INSERISCI** presente nel
+riquadro **Modello P** a seguito della descrizione del modello e del link che porta ad ulteriori dettagli.
+
+.. figure:: /media/modelloP.png
+   :align: center
+   :name: home page - modelli
+   :alt: Modello P
+
+   Modello P
 
 
 
