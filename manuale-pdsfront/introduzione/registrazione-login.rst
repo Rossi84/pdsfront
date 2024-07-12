@@ -22,7 +22,7 @@ Per usufruire dei servizi del Portale delle segnalazioni è necessario accedere 
 
 - *Anagrafica*: indicare i dati di residenza.
    
-.. figure:: /media/anagrafia.png
+.. figure:: /media/anagrafica.png
    :align: center
    :name: registrazione-anagrafica
    :alt: Registrazione anagrafica
