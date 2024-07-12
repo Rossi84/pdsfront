@@ -13,7 +13,7 @@ Per usufruire dei servizi del Portale delle segnalazioni è necessario accedere 
 
 - *Dati di accesso*: specificare i recapiti di contatto che saranno usati per le notifiche.
 
-.. figure:: /media/image.png
+.. figure:: /media/datiaccesso.png
    :align: center
    :name: registrazione-dati
    :alt: Registrazione dati di accesso
