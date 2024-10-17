@@ -25,14 +25,6 @@ deve selezionare il tipo di segnalante tra:
 
    Il segnalante sono io
 
-- *Il segnalante è una persona giuridica di cui sono il legale rappresentante*: da selezionare se il segnalante è una persona giuridica di cui l'utente è il legale rappresentante. Verranno chiesti i dati relativi alla persona giuridica. I dati della persona giuridica verranno salvati, in automatico, nella rubrica delle aziende dell'utente.
-
-.. figure:: /media/personsagiuridicadelegata.png
-   :align: center
-   :name: modello-D
-   :alt: Il segnalante è una persona giuridica di cui sono il legale rappresentante
-
-   Il segnalante è una persona giuridica di cui sono il legale rappresentante
 
 - *Il segnalante è una persona fisica che mi ha delegato*: da selezionare se il segnalante è una persona fisica che ha delegato l'utente a compilare il modello. Verranno chiesti i dati della persona fisica che ha delegato l'utente. I dati del delegante verranno salvati in automatico nella rubrica dei deleganti dell'utente. Inoltre verrà chiesto di allegare il documento d'identita e il documento di delega della persona fisica che ha delegato l'utente.
 
@@ -50,6 +42,15 @@ deve selezionare il tipo di segnalante tra:
 
    Documenti persona fisica delegante e delegato
 
+- *Il segnalante è una persona giuridica di cui sono il legale rappresentante*: da selezionare se il segnalante è una persona giuridica di cui l'utente è il legale rappresentante. Verranno chiesti i dati relativi alla persona giuridica. I dati della persona giuridica verranno salvati, in automatico, nella rubrica delle aziende dell'utente.
+
+.. figure:: /media/personsagiuridicadelegata.png
+   :align: center
+   :name: modello-D
+   :alt: Il segnalante è una persona giuridica di cui sono il legale rappresentante
+
+   Il segnalante è una persona giuridica di cui sono il legale rappresentante
+   
 - *Il segnalante è una persona giuridica di cui ho procura*: da selezionare se il segnalante è una persona giuridica di cui l'utente ha procura. Verranno chiesti i dati della persona giuridica e del rappresentante legale della persona giuridica. I dati del rappresentante legale della persona giuridica verranno salvati in automatico nella rubrica dei deleganti dell'utente e i dati della persona giuridica verranno salvati nella rubrica delle aziende del rappresentante legale. Inoltre verrà chiesto di allegare il documento d'identità del rappresentante legale della persona giuridica e il documento di procura.
 
 .. figure:: /media/personagiuridicadicuihoprocura1.png
