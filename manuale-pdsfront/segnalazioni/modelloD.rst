@@ -27,7 +27,7 @@ deve selezionare il tipo di segnalante tra:
 
 - *Il segnalante è una persona giuridica di cui sono il legale rappresentante*: da selezionare se il segnalante è una persona giuridica di cui l'utente è il legale rappresentante. Verranno chiesti i dati relativi alla persona giuridica. I dati della persona giuridica verranno salvati, in automatico, nella rubrica delle aziende dell'utente.
 
-.. figure:: /media/personagiuridicadelegata.png
+.. figure:: /media/personsagiuridicadelegata.png
    :align: center
    :name: modello-D
    :alt: Il segnalante è una persona giuridica di cui sono il legale rappresentante
@@ -36,14 +36,14 @@ deve selezionare il tipo di segnalante tra:
 
 - *Il segnalante è una persona fisica che mi ha delegato*: da selezionare se il segnalante è una persona fisica che ha delegato l'utente a compilare il modello. Verranno chiesti i dati della persona fisica che ha delegato l'utente. I dati del delegante verranno salvati in automatico nella rubrica dei deleganti dell'utente. Inoltre verrà chiesto di allegare il documento d'identita e il documento di delega della persona fisica che ha delegato l'utente.
 
-.. figure:: /media/personafisica.png
+.. figure:: /media/personafisicaModelloD1.png
    :align: center
    :name: modello-D
    :alt: Il segnalante è una persona fisica che mi ha delegato
 
    Il segnalante è una persona fisica che mi ha delegato
 
-.. figure:: /media/documentipersonafisica.png
+.. figure:: /media/personafisicaModelloD2.png
    :align: center
    :name: modello-D
    :alt: Documenti persona fisica delegante e delegato
@@ -59,7 +59,7 @@ deve selezionare il tipo di segnalante tra:
 
    Il segnalante è una persona giuridica di cui ho procura (parte persona fisica)
 
-   .. figure:: /media/personagiuridicadicuihoprocura2.png
+.. figure:: /media/personagiuridicadicuihoprocura2.png
    :align: center
    :name: modello-D
    :alt: Il segnalante è una persona giuridica di cui ho procura
