@@ -2,7 +2,7 @@ Modulo ce, sma e paytv
 ===========
 
 Per andare a inserire una nuova segnalazione per il Modulo ce, sma e paytv, si deve cliccare sul pulsante **+INSERISCI** presente nella home page,
-nel riquadro intitolato **Modulo ce, sma e paytv**.
+nel riquadro intitolato **Modulo per le segnalazioni nel settore delle comunicazioni elettroniche, servizi media audiovisivi e pay tv**.
 
 .. figure:: /media/modelloD.png
    :align: center

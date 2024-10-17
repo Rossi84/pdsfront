@@ -14,7 +14,7 @@ In particolare, sono presenti due riquadri che permettono di inserire una segnal
    Modulo ce, sma e paytv e Modulo settore postale
 
 Per andare a inserire una segnalazione di tipo **Modulo ce, sma e paytv** è sufficiente cliccare sul pulsante **+ INSERISCI** presente nel 
-riquadro **Modulo ce, sma e paytv** a seguito della descrizione del modello e del link che porta ad ulteriori dettagli.
+riquadro **Modulo per le segnalazioni nel settore delle comunicazioni elettroniche, servizi media audiovisivi e pay tv** a seguito della descrizione del modello e del link che porta ad ulteriori dettagli.
 
 .. figure:: /media/modelloD.png
    :align: center
@@ -24,7 +24,7 @@ riquadro **Modulo ce, sma e paytv** a seguito della descrizione del modello e de
    Modulo ce, sma e paytv
 
 Per andare a inserire una segnalazione di tipo **Modulo settore postale** è sufficiente cliccare sul pulsante **+ INSERISCI** presente nel
-riquadro **Modulo settore postale** a seguito della descrizione del modello e del link che porta ad ulteriori dettagli.
+riquadro **Modulo per le segnalazioni nel settore postale** a seguito della descrizione del modello e del link che porta ad ulteriori dettagli.
 
 .. figure:: /media/modelloP.png
    :align: center
