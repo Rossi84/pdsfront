@@ -1,15 +1,15 @@
-Modello P 
+Modulo settore postale 
 ===========
 
-Per andare a inserire una nuova segnalazione per il modello P, si deve cliccare sul pulsante **+INSERISCI** presente nella home page,
-nel riquadro intitolato **Modello P**.
+Per andare a inserire una nuova segnalazione per il Modulo settore postale, si deve cliccare sul pulsante **+INSERISCI** presente nella home page,
+nel riquadro intitolato **Modulo settore postale**.
 
 .. figure:: /media/modelloP.png
    :align: center
    :name: modello-P
-   :alt: Modello P
+   :alt: Modulo settore postale
 
-   Modello P
+   Modulo settore postale
 
 Dati segnalante
 ----------------

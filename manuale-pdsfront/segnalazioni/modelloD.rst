@@ -1,15 +1,15 @@
-Modello D 
+Modulo ce, sma e paytv 
 ===========
 
-Per andare a inserire una nuova segnalazione per il modello D, si deve cliccare sul pulsante **+INSERISCI** presente nella home page,
-nel riquadro intitolato **Modello D**.
+Per andare a inserire una nuova segnalazione per il Modulo ce, sma e paytv, si deve cliccare sul pulsante **+INSERISCI** presente nella home page,
+nel riquadro intitolato **Modulo ce, sma e paytv**.
 
 .. figure:: /media/modelloD.png
    :align: center
    :name: modello-D
-   :alt: Modello D
+   :alt: Modulo ce, sma e paytv
 
-   Modello D
+   Modulo ce, sma e paytv
 
 Dati segnalante
 ----------------
