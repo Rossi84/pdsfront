@@ -2,7 +2,7 @@ Modulo settore postale
 ===========
 
 Per andare a inserire una nuova segnalazione per il Modulo settore postale, si deve cliccare sul pulsante **+INSERISCI** presente nella home page,
-nel riquadro intitolato **Modulo per le segnalazioni nel settore postale**.
+nel riquadro intitolato **Segnalazioni nel settore postale**.
 
 .. figure:: /media/modelloP.png
    :align: center
