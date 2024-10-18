@@ -50,7 +50,7 @@ deve selezionare il tipo di segnalante tra:
    :alt: Il segnalante è una persona giuridica di cui sono il legale rappresentante
 
    Il segnalante è una persona giuridica di cui sono il legale rappresentante
-   
+   	
 - *Il segnalante è una persona giuridica di cui ho procura*: da selezionare se il segnalante è una persona giuridica di cui l'utente ha procura. Verranno chiesti i dati della persona giuridica e del rappresentante legale della persona giuridica. I dati del rappresentante legale della persona giuridica verranno salvati in automatico nella rubrica dei deleganti dell'utente e i dati della persona giuridica verranno salvati nella rubrica delle aziende del rappresentante legale. Inoltre verrà chiesto di allegare il documento d'identità del rappresentante legale della persona giuridica e il documento di procura.
 
 .. figure:: /media/personagiuridicadicuihoprocura1.png
