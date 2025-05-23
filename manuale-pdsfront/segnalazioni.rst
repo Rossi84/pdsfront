@@ -8,8 +8,7 @@ Questo capitolo descrive le azioni possibili inerenti le segnalazioni.
   :hidden:
   :caption: Segnalazioni
   
-  segnalazioni/listasegnalazioni.rst
+  segnalazioni/listesegnalazioni.rst
   segnalazioni/listabozze.rst
   segnalazioni/rubricadeleganti.rst
-  segnalazioni/modelloD.rst
-  segnalazioni/modelloP.rst
+  segnalazioni/nuovasegnalazione.rst

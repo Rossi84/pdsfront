@@ -1,20 +1,20 @@
-Modulo ce, sma e paytv 
-===========
+Nuova segnalazione
+==================
 
-Per andare a inserire una nuova segnalazione per il Modulo ce, sma e paytv, si deve cliccare sul pulsante **+INSERISCI** presente nella home page,
-nel riquadro intitolato **Segnalazioni nel settore delle comunicazioni elettroniche, servizi media audiovisivi e pay tv**.
+Per inserire una nuova segnalazione, una volta effetuato il login, premere sulla voce del munù principale **Crea nuova segnalazione**,
+seguire la procedura guidata e premere **Compila la segnalazione**.
 
-.. figure:: /media/modelloD.png
+.. figure:: /media/creanuova.png
    :align: center
-   :name: modello-D
-   :alt: Modulo ce, sma e paytv
+   :name: selezione modello
+   :alt: Selezione tipologia segnalazione
 
-   Modulo ce, sma e paytv
+   Procedura guidata per la selezione della tipologia di segnalazione
 
 Dati segnalante
 ----------------
-La prima sezione del modello richiede di andare ad inserire i dati del segnalante. Per inserire i dati del segnalante innanzitutto si 
-deve selezionare il tipo di segnalante tra: 
+La prima sezione richiede di andare ad inserire i dati del segnalante. Per inserire i dati del segnalante innanzitutto si 
+deve selezionare il tipo di segnalante tra:
 
 - *Il segnalante sono io* : da selezionare se il segnalante è la persona che sta compilando il modello. In questo caso i dati del segnalante verranno precompilati con i dati dell'utente loggato.
 
@@ -67,60 +67,9 @@ deve selezionare il tipo di segnalante tra:
 
    Il segnalante è una persona giuridica di cui ho procura (parte persona giuridica)
 
-Oggetto della segnalazione
---------------------------
-In questa sezione è possibile inserire l'oggetto della segnalazione.
-
-.. figure:: /media/oggettosegnalazione.png
-   :align: center
-   :name: modello-D
-   :alt: Inserire Oggetto
-
-   Oggetto segnalazione
-
-Operatore interessato
----------------------
-In questa sezione è possibile inserire il nome dell'operatore interessato.
-
-.. figure:: /media/operatoreinteressato.png
-   :align: center
-   :name: modello-D
-   :alt: Operatore interessato
-
-   Operatore interessato
-
-In alcuni casi, a seconda dell'oggetto selezionato, apparirà anche da inserire l'operatore di provenienza.
-
-.. figure:: /media/operatoreprovenienza.png
-   :align: center
-   :name: modello-D
-   :alt: Operatore di provenienza
-
-   Operatore di provenienza
-
-Tipologia di servizio
----------------------
-In questa sezione è possibile selezionare la tipologia di servizio.
-
-.. figure:: /media/tipologiaservizio.png
-   :align: center
-   :name: modello-D
-   :alt: Tipologia di servizio
-
-   Tipologia di servizio
-
-Dati relativi all'utenza
-------------------------
-In questa sezione è possibile inserire i dati relativi all'utenza. 
-Se l'intestatario del contratto è diverso dal segnalante, si deve selezionare la casella " *L'intestatario del contratto è diverso dal segnalante* ""
-e inserire i dati dell'intestatario del contratto.
-
-.. figure:: /media/datiutenza.png
-   :align: center
-   :name: modello-D
-   :alt: Dati relativi all'utenza
-
-   Dati relativi all'utenza
+Dati specifici per la tipologia di segnalazione
+-----------------------------------------------
+Per ciscuna tipologia di segnalazione saranno presenti i campi relativi da compilare.
 
 Testo della segnalazione
 ------------------------

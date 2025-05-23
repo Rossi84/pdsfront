@@ -1,17 +1,16 @@
 Lista segnalazioni
 ==================
 
-In questa pagina viene mostrata la lista delle segnalazioni inserite.
-Per visualizzare il dettaglio della segnalazione premere l'apposita icona a "lente d'ingrandimento" dell'ultima colonna.
+Da questa pagina è possibile accedere alle liste delle varie tipologie di segnalazioni inviate. 
 
-.. figure:: /media/listasegnalazioni.png
+.. figure:: /media/listesegnalazioni.png
    :align: center
-   :name: lista-segnalazioni
-   :alt: Lista segnalazioni
+   :name: liste-segnalazioni
+   :alt: Liste segnalazioni
 
-   Lista segnalazioni
+   Liste segnalazioni
 
-
+Per visualizzare il dettaglio della segnalazione premere l'apposita icona a "lente d'ingrandimento" dell'ultima colonna di ciascuna lista.
 Nella visualizzazione di dettaglio saranno presenti due possibili azioni:
 
 - Fascicolo Documentale: che permette di visualizzare i file allegati alla segnalazione
