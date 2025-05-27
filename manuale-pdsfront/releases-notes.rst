@@ -8,7 +8,7 @@ Funzionalità versione v1.0.0
 
 - **Rilascio iniziale**: tutte le funzionalità per l'inserimento delle segnalazioni.
 
-Funzionalità versione v2.0.0
+Funzionalità versione v1.1.0
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *Disponibili dal*: XX/XX/2025
