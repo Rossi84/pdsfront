@@ -11,6 +11,6 @@ Funzionalità versione v1.0.0
 Funzionalità versione v1.1.0
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Disponibili dal*: XX/XX/2025
+*Disponibili dal*: 18/06/2025
 
 - **Rilascio finale**: nuove tipologie di segnalazione.
