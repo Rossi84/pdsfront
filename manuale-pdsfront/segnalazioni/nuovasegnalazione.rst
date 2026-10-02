@@ -4,12 +4,19 @@ Nuova segnalazione
 Per inserire una nuova segnalazione, una volta effetuato il login, premere sulla voce del munù principale **Crea nuova segnalazione**,
 seguire la procedura guidata e premere **Compila la segnalazione**.
 
-.. figure:: /media/creanuova.png
+.. figure:: /media/creanuova_1.png
    :align: center
    :name: selezione modello
    :alt: Selezione tipologia segnalazione
 
    Procedura guidata per la selezione della tipologia di segnalazione
+
+   .. figure:: /media/creanuova_2.png
+   :align: center
+   :name: selezione violazione
+   :alt: Selezione tipologia violazione
+
+   Procedura guidata per la selezione della tipologia di violazione
 
 Dati segnalante
 ----------------
